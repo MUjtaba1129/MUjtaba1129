@@ -26,16 +26,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-     <td align="center" width="96">
-        <img <svg width="65" height="65" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <path fill="#E44D26" d="M19.562 116.177l-8.24-92.404h105.355l-8.297 92.463L63.5 127.5l-43.938-11.323z"/>
-  <path fill="#F16529" d="M63.499 119.184l35.616-9.188 7.109-79.626H63.499v88.814z"/>
-  <path fill="#EBEBEB" d="M63.499 65.719h-15.1l-.395-15.716h15.494V34.816H35.471l1.124 29.937h26.904v-8.976zm0 39.313l-.019.005-12.62-3.4-.808-9.038H39.063l1.591 17.849 22.826 6.322.019-.006v-11.732z"/>
-  <path fill="#fff" d="M63.499 65.719v8.977h13.462l-1.265 14.104-12.197 3.4v11.731l22.826-6.322.165-1.85 2.624-29.425.272-3.018H63.499zm0-30.903v15.186h26.66l.224-2.522.518-5.855.271-3.017H63.499z"/>
-</svg>
- />
-      <br>HTML
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
