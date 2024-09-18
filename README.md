@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Mjtaba Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
-<h3 align="center">Front-end engineer | wordpress developer| Creating user interactive websites from pakistan.</h3>
+<h3 align="center">Front-end engineer | Creating user interactive websites from pakistan.</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://instagram.com/otaviossousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaviossousa" height="30" width="40" /></a>
@@ -21,14 +21,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
