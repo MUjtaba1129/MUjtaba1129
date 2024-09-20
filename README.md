@@ -61,6 +61,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaviossousa&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
     </picture>
   </div>
+  <a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=default&r=x0i" width="356" alt="Mujtaba Ali's Dev Card"/></a>
   <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=dracula&locale=en" />
