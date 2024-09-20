@@ -6,7 +6,7 @@
   <a href="https://instagram.com/otaviossousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaviossousa" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/otaviossousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=wide&r=x0i" width="652" alt="Mujtaba Ali's Dev Card"/></a>
+
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -70,6 +70,7 @@
     </picture>
   </div>
 </div>
+<a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=wide&r=x0i" width="652" alt="Mujtaba Ali's Dev Card"/></a>
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
