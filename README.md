@@ -3,8 +3,8 @@
 <h3 align="center">Front-end engineer | wordpress developer| Creating user interactive websites .</h3>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://instagram.com/otaviossousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaviossousa" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mujtabaali1129 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
+  <a href="https://instagram.com/otaviossousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mujtaba Ali" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mujtabaali1129 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mujtaba Ali" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -24,20 +24,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
@@ -47,10 +35,7 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>
+  
  </tr>
 </table>
 </div>
