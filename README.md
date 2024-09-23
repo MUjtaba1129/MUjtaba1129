@@ -1,6 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Mujtaba Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUjtaba1129&label=Profile%20views&color=0e75b6&style=flat" alt="MUjtaba1129" /> </p>
 <h3 align="center">Front-end engineer | wordpress developer| Creating user interactive websites .</h3>
+ <img src="path/to/your/image.jpg" alt="Description of Image" width="500" height="auto">
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https:// target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mujtaba Ali" height="30" width="40" /></a>
