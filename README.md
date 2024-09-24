@@ -1,7 +1,8 @@
 <h1 align="center">Hi :wave:, I'm Mujtaba Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUjtaba1129&label=Profile%20views&color=0e75b6&style=flat" alt="MUjtaba1129" /> </p>
 <h3 align="center">Front-end engineer | wordpress developer| Creating user interactive websites .</h3>
- <img src="[path/to/your/image.jpg](https://github.com/MUjtaba1129/MUjtaba1129/commit/b20709401020f409c13efaa8c12a1e1684aed114#commitcomment-147086429)" alt="Description of Image" width="500" height="auto">
+<img src="![Black Blue White Modern Software Engineer Linkedin Banner](https://github.com/user-attachments/assets/fa32dc76-abda-4eaa-b13e-9334337e6ba1)
+" alt="Description of Image" width="500" height="auto">
  
 <h2 align="center">Connect with me:</h2>
 <p align="center">
