@@ -1,4 +1,4 @@
-<img src="![Black Blue White Modern Software Engineer Linkedin Banner](https://github.com/user-attachments/assets/fa32dc76-abda-4eaa-b13e-9334337e6ba1)
+<img src="![Black Blue White Modern Software Engineer Linkedin Banner](https://github.com/user-attachments/assets/644b3215-bf88-4da9-9486-46e97c4e6650)
 " alt="Description of Image" width="500" height="auto">
 <h1 align="center">Hi :wave:, I'm Mujtaba Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUjtaba1129&label=Profile%20views&color=0e75b6&style=flat" alt="MUjtaba1129" /> </p>
