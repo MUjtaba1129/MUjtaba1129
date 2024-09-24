@@ -1,3 +1,4 @@
+![Black Blue White Modern Software Engineer Linkedin Banner](https://github.com/user-attachments/assets/ba6a42b8-6a33-4535-b394-e8dac7d5d426)
 
 <h1 align="center">Hi :wave:, I'm Mujtaba Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUjtaba1129&label=Profile%20views&color=0e75b6&style=flat" alt="MUjtaba1129" /> </p>
@@ -5,7 +6,7 @@
 
  ![logo](https://github.com/MUjtaba1129/MUjtaba1129/blob/main/Black%20Blue%20White%20Modern%20Software%20Engineer%20Linkedin%20Banner.pngaa)
 
-<img src="![logo](https://github.com/MUjtaba1129/MUjtaba1129/blob/main/Black%20Blue%20White%20Modern%20Software%20Engineer%20Linkedin%20Banner.pngaa)
+<img src="
 " alt="">
  
 <h2 align="center">Connect with me:</h2>
