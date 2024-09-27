@@ -32,6 +32,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
+        <img <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="100" height="100">" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
