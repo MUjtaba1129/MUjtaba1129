@@ -5,7 +5,6 @@
 ![Black Blue White Modern Software Engineer Linkedin Banner](https://github.com/user-attachments/assets/ba6a42b8-6a33-4535-b394-e8dac7d5d426)
 <img src="
 " alt="">
- 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https:// target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mujtaba Ali" height="30" width="40" /></a>
