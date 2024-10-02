@@ -39,7 +39,6 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
-  
  </tr>
 </table>
 </div>
