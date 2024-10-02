@@ -64,6 +64,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
-
 </div>
 <a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=wide&r=x0i" width="652" alt="Mujtaba Ali's Dev Card"/></a>
